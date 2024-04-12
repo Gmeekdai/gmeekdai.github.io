@@ -1,6 +1,6 @@
 {
     "title":"Blog Title",
-    "subTitle":"Blog description",
+    "subTitle":"Blog description<br>Blog description 2<br>Blog description 3",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"main"
 }
